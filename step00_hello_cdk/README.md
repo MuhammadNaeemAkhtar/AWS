@@ -29,11 +29,9 @@ python -m pip install --upgrade virtualenv
 pip install aws-cdk
 
 Possible error :
-is disabled on this system. For more information, see about_Execution_Policies at
-https:/go.microsoft.com/fwlink/?LinkID=135170.
-At line:1 char:1
-+ cdk --version
-+ ~~~
+    + is disabled on this system. For more information, see about_Execution_Policies at
+    + https:/go.microsoft.com/fwlink/?LinkID=135170.
+    + At line:1 char:1
     + CategoryInfo          : SecurityError: (:) [], PSSecurityException
     + FullyQualifiedErrorId : UnauthorizedAccess
 
